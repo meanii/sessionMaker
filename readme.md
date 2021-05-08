@@ -28,7 +28,7 @@ class  BasicSettings:
 -   A  [Telegram API key](https://docs.pyrogram.org/intro/setup#api-keys).
 
 ### Installing
-`pythhon3 -m sessionMaker`
+`python3 -m sessionMaker`
 
 ###  Copyright & License
 - Copyright (C)  2021 [meanii](https://github.om/meanii )
