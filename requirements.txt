@@ -1,0 +1,9 @@
+# pyrogram Implimantation
+pyrogram 
+tgcrypto
+ 
+# Telethon Implmantioon 
+telethon
+
+# Basic modules
+pyromod
