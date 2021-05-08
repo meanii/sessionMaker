@@ -1,5 +1,4 @@
 from pyrogram import Client
-from pymongo import MongoClient
 from pyromod import listen
 
 from sessionMaker.setting import BasicSettings
