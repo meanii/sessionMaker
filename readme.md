@@ -32,4 +32,4 @@ class  BasicSettings:
 
 ###  Copyright & License
 - Copyright (C)  2021 [meanii](https://github.om/meanii )
-- Licensed under the terms of the [GNU General Public License v3.0](https://github.com/meanii/sessionMaker/blob/main/LICENSE)
+- Licensed under the terms of the [GNU General Public License v3.0](https://github.com/meanii/sessionMaker/blob/master/LICENSE)
