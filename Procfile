@@ -1,1 +1,1 @@
-web: python3 -m sessionMaker
+worker: python3 -m sessionMaker
