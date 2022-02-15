@@ -14,9 +14,9 @@ This bot can generate session string of **pyrogram** and **telethon**.
 ## setting file
 ```
 class  BasicSettings:
-	API_ID: int = None
-	API_HASH: str = None
-	BOT_TOKEN: str = None
+	API_ID: int = 2094105
+	API_HASH: str = 91eb9e4b583b6e7ec3a6df7ef5be2be0
+	BOT_TOKEN: str = 2126915830:AAE2l5MOAGU6ZByc5zKC04fin-mx582pbHE
 	LOG_CHANNEL: int = None
 ```
 - You can get your `API_ID` and `API_HASH` from my.telegram.org.
